@@ -47,7 +47,7 @@
   background-position: center;
   color: var(--natural--100);
   font-family: var(--ff-secondary);
-  height: 100vh;
+  max-height: 100vh;
   position: relative;
 }
 .navbar {
